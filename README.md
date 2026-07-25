@@ -40,6 +40,15 @@ Este projeto consiste em uma pipeline completa de dados para monitoramento de sa
 
 ---
 
+## ❓ Perguntas de negócio respondidas
+
+1. **Visão geral da base:** Qual é a distribuição de clientes e a média de engajamento (logs de uso) por tipo de plano (*Basic*, *Pro*, *Enterprise*)?
+2. **Identificação de inatividade:** Quantos e quais clientes estão sem acessar a plataforma há mais de 30 e 60 dias?
+3. **Impacto financeiro (MRR em Risco):** Qual o valor financeiro total recorrente que está sob risco iminente de *churn*?
+4. **Priorização operacional:** Como ordenar a lista de clientes em risco para que o time de Atendimento atue primeiro nos contratos de maior impacto financeiro?
+
+---
+
 ## 🚀 Como executar o projeto
 
 1. **Clone o repositório:**
