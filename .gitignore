@@ -8,3 +8,7 @@ __pycache__/
 
 # Arquivos de ambiente e chaves secretas (Segurança)
 .env
+
+# Banco de dados gerado localmente
+*.db
+*.sqlite3
